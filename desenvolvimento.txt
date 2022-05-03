@@ -1,0 +1,3 @@
+- Crie uma função para somar
+- Crie uma função para subtrair
+- Receba o primeiro número
